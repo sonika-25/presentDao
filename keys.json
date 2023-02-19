@@ -1,0 +1,12 @@
+{
+    "networks":{
+        "goerli":{
+            "privateKey":"",
+            "infuraKey":""
+        },
+        "mumbai":{
+            "privateKey":"",
+            "infuraKey":""
+        }
+    }
+}
